@@ -6,4 +6,4 @@ Algumas alterações que fiz no projeto:
 - @media para alterações nos elementos mobile;
 - Menu sanduíche para versão mobile (script.js);
 
-Projeto do canal [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE&t=426s).
+Projeto do canal [Rafaella Ballerini](https://www.youtube.com/watch?v=llF6vD-RljE).
